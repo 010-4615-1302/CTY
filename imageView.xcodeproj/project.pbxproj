@@ -12,6 +12,12 @@
 		FD830A272071F90E00C992D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD830A252071F90E00C992D0 /* Main.storyboard */; };
 		FD830A292071F90E00C992D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD830A282071F90E00C992D0 /* Assets.xcassets */; };
 		FD830A2C2071F90E00C992D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD830A2A2071F90E00C992D0 /* LaunchScreen.storyboard */; };
+		FD830A5D20720E0100C992D0 /* frame5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD830A5720720E0000C992D0 /* frame5.jpg */; };
+		FD830A5E20720E0100C992D0 /* frame3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD830A5820720E0000C992D0 /* frame3.jpg */; };
+		FD830A5F20720E0100C992D0 /* frame1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD830A5920720E0000C992D0 /* frame1.jpg */; };
+		FD830A6020720E0100C992D0 /* frame6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD830A5A20720E0000C992D0 /* frame6.jpg */; };
+		FD830A6120720E0100C992D0 /* frame2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD830A5B20720E0100C992D0 /* frame2.jpg */; };
+		FD830A6220720E0100C992D0 /* frame4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD830A5C20720E0100C992D0 /* frame4.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		FD830A282071F90E00C992D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD830A2B2071F90E00C992D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD830A2D2071F90E00C992D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD830A5720720E0000C992D0 /* frame5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = frame5.jpg; path = "../../../Desktop/이미지/frame5.jpg"; sourceTree = "<group>"; };
+		FD830A5820720E0000C992D0 /* frame3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = frame3.jpg; path = "../../../Desktop/이미지/frame3.jpg"; sourceTree = "<group>"; };
+		FD830A5920720E0000C992D0 /* frame1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = frame1.jpg; path = "../../../Desktop/이미지/frame1.jpg"; sourceTree = "<group>"; };
+		FD830A5A20720E0000C992D0 /* frame6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = frame6.jpg; path = "../../../Desktop/이미지/frame6.jpg"; sourceTree = "<group>"; };
+		FD830A5B20720E0100C992D0 /* frame2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = frame2.jpg; path = "../../../Desktop/이미지/frame2.jpg"; sourceTree = "<group>"; };
+		FD830A5C20720E0100C992D0 /* frame4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = frame4.jpg; path = "../../../Desktop/이미지/frame4.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,12 @@
 				FD830A282071F90E00C992D0 /* Assets.xcassets */,
 				FD830A2A2071F90E00C992D0 /* LaunchScreen.storyboard */,
 				FD830A2D2071F90E00C992D0 /* Info.plist */,
+				FD830A5920720E0000C992D0 /* frame1.jpg */,
+				FD830A5B20720E0100C992D0 /* frame2.jpg */,
+				FD830A5820720E0000C992D0 /* frame3.jpg */,
+				FD830A5C20720E0100C992D0 /* frame4.jpg */,
+				FD830A5720720E0000C992D0 /* frame5.jpg */,
+				FD830A5A20720E0000C992D0 /* frame6.jpg */,
 			);
 			path = imageView;
 			sourceTree = "<group>";
@@ -123,9 +141,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD830A6020720E0100C992D0 /* frame6.jpg in Resources */,
+				FD830A5E20720E0100C992D0 /* frame3.jpg in Resources */,
+				FD830A6220720E0100C992D0 /* frame4.jpg in Resources */,
 				FD830A2C2071F90E00C992D0 /* LaunchScreen.storyboard in Resources */,
+				FD830A5D20720E0100C992D0 /* frame5.jpg in Resources */,
 				FD830A292071F90E00C992D0 /* Assets.xcassets in Resources */,
 				FD830A272071F90E00C992D0 /* Main.storyboard in Resources */,
+				FD830A6120720E0100C992D0 /* frame2.jpg in Resources */,
+				FD830A5F20720E0100C992D0 /* frame1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
